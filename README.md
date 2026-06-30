@@ -1,3 +1,4 @@
+![Repo Health Check](https://github.com/Chai0304/Repo_Health_Checker/actions/workflows/check.yml/badge.svg)
 # Repo Health Checker
 
 This repository contains a shell script (`check.sh`) that automatically validates the health of this repo on every push, using GitHub Actions.
