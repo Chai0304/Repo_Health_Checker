@@ -16,8 +16,9 @@ These checks simulate a basic CI gate, similar to what real engineering teams us
 
 ## How it runs
 
-The script `check.sh` runs automatically via a GitHub Actions workflow (`.github/workflows/check.yml`) on every push to this repository. If any check fails, the script exits with code 1 and the CI badge turns red. If all checks pass, it exits with code 0 and the badge turns green.
+ If any check fails, the script exits with code 1 and the CI badge turns red. If all checks pass, it exits with code 0 and the badge turns green.
 
 ## Author
 
 Maintained by Chai0304.
+Chaithanya
