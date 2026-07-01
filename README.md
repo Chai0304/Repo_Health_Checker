@@ -22,3 +22,4 @@ These checks simulate a basic CI gate, similar to what real engineering teams us
 
 Maintained by Chai0304.
 Chaithanya
+Trainee
