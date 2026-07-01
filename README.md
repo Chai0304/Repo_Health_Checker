@@ -1,14 +1,14 @@
 ![Repo Health Check](https://github.com/Chai0304/Repo_Health_Checker/actions/workflows/check.yml/badge.svg)
 # Repo Health Checker
 
-This repository contains a shell script (`check.sh`) that automatically validates the health of this repo on every push, using GitHub Actions.
+This repository contains a shell script that automatically validates the health of this repo on every push using GitHub Actions.
 
 ## What it checks
 
-1. **README.md exists and has more than 5 lines** — ensures documentation isn't empty or missing.
-2. **.gitignore exists** — ensures unwanted files (secrets, build artifacts) won't get committed.
-3. **No .env or secret files are committed** — prevents leaking credentials into version control.
-4. **Commit messages have more than 5 words** — encourages meaningful, descriptive commit history.
+1. **README.md exists and has more than 5 lines** 
+2. **.gitignore exists**
+3. **No .env or secret files are committed** 
+4. **Commit messages have more than 5 words** 
 
 ## Why
 
